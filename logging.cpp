@@ -1,0 +1,1 @@
+void __unused_glog_stub() {}
